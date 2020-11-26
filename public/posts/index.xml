@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Learning Fast</title>
+    <link>http://learningfast.io/posts/</link>
+    <description>Recent content in Posts on Learning Fast</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Nov 2020 11:45:27 -0700</lastBuildDate><atom:link href="http://learningfast.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Setting Up Hugo</title>
+      <link>http://learningfast.io/posts/setting-up-hugo/</link>
+      <pubDate>Thu, 26 Nov 2020 11:45:27 -0700</pubDate>
+      
+      <guid>http://learningfast.io/posts/setting-up-hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://learningfast.io/posts/my-first-post/</link>
+      <pubDate>Thu, 26 Nov 2020 11:31:37 -0700</pubDate>
+      
+      <guid>http://learningfast.io/posts/my-first-post/</guid>
+      <description>Based on a brillant tweet I ran into today I started my tech blog journey (It was a voiceover of one of my favorite Seinfeld scenes, the car rental, showing how complex it is to setup a web site). I&amp;rsquo;ve discovered throught the years that learning fast is key to success, overall satisfaction and ultimately happiness. So let the journey begin&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

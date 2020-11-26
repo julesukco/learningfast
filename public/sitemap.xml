@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://learningfast.io/</loc>
+    <lastmod>2020-11-26T11:45:27-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://learningfast.io/posts/</loc>
+    <lastmod>2020-11-26T11:45:27-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://learningfast.io/posts/setting-up-hugo/</loc>
+    <lastmod>2020-11-26T11:45:27-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://learningfast.io/posts/my-first-post/</loc>
+    <lastmod>2020-11-26T11:31:37-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://learningfast.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://learningfast.io/tags/</loc>
+  </url>
+  
+</urlset>

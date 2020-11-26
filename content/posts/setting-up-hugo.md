@@ -1,8 +1,9 @@
 ---
 title: Setting Up Hugo
 date: 2020-11-26T11:45:27.000-07:00
-tags:
+categories:
 - Web
+- Development
 ---
 Getting up and running was the typical technology experience. Simple instructions, easy to follow instructions. Unexpected errors and long periods of time debugging.
 

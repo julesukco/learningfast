@@ -11,3 +11,5 @@ Getting up and running was the typical technology experience. Simple instruction
 4. Netlify was an easy start (but does not work well with Safari).  Getting DNS setup was a bit confusing but got through it pretty quickly. Too bad there's so a long delay for DNS propagation to start working.
 
    Update: DNS propagation much faster than advertised - up and running in under an hour! The site is live. 
+
+![Cat](/uploads/wideshot.png)

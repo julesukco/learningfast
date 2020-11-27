@@ -1,7 +1,6 @@
 +++
 categories = ["books"]
 date = 2020-11-27T07:00:00Z
-draft = true
 subtitle = "The power of co-elevation"
 tags = ["Keith Ferrazzi"]
 title = "Leading Without Authority"
@@ -9,3 +8,4 @@ title = "Leading Without Authority"
 src = ""
 
 +++
+![](/uploads/leading-without-authority.jpg "Leading Without Authority")

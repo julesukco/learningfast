@@ -25,3 +25,5 @@ fields:
   - type: file
     name: src
     label: src
+pages:
+- content/posts/leading-without-authority.md

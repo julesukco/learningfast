@@ -1,0 +1,23 @@
+---
+label: default-post
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: list
+  name: categories
+  label: categories
+- type: text
+  name: subtitle
+  label: subtitle
+- type: field_group
+  name: banner
+  label: banner
+  fields:
+  - type: file
+    name: src
+    label: src

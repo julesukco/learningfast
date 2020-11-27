@@ -1,4 +1,4 @@
 baseURL = "http://learningfast.io/"
 languageCode = "en-us"
 title = "Learning Fast"
-theme = "ananke"
+theme = "Blogpaper"

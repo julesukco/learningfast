@@ -1,7 +1,6 @@
 +++
 categories = ["books"]
 date = 2020-12-23T07:00:00Z
-draft = true
 subtitle = ""
 tags = ["Chris Voss"]
 title = "Never Split The Difference"

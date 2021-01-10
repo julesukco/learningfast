@@ -16,3 +16,7 @@ Options looked at:
 * backendless - signed up, no clue how to use it. abandoned
 * fluid - web and a native mac app. looks promising - good for UI (mobile and web) mockups, but can't call out to an api
 * parabola - calls APIs, automation workflow, no presentation
+
+Nothing really doing what I need so far.
+
+Found a React js dev site called codesandbox.io that may be of use as it runs solely as a .HTML page.

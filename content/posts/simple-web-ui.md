@@ -23,7 +23,7 @@ Found a React js dev site called codesandbox.io that may be of use as it runs so
 
 **What did I learn from this?**
 
-* Several hours of searching and ended up where I started. I did find several interesting things along the way
+* Several hours of searching and ended up where I started. I did find several interesting things along the way that made it worthwhile - sometimes the journey is worth it even if you don't find what you want.
 
 **Sample API Resources**
 

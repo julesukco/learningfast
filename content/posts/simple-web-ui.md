@@ -1,7 +1,6 @@
 +++
 categories = ["Development", "Web", "API"]
 date = 2021-01-09T07:00:00Z
-draft = true
 subtitle = "Creating a UI with data from APIs - easily, with no code"
 tags = []
 title = "Simple Web UI"
@@ -19,4 +18,17 @@ Options looked at:
 
 Nothing really doing what I need so far.
 
-Found a React js dev site called codesandbox.io that may be of use as it runs solely as a .HTML page.
+Found a React js dev site called codesandbox.io that may be of use as it runs solely as a .HTML page. Which led me to a google search result for a HTML and JS file:  
+[https://www.geeksforgeeks.org/how-to-use-the-javascript-fetch-api-to-get-data/](https://www.geeksforgeeks.org/how-to-use-the-javascript-fetch-api-to-get-data/ "https://www.geeksforgeeks.org/how-to-use-the-javascript-fetch-api-to-get-data/")
+
+**What did I learn from this?**
+
+* Several hours of searching and ended up where I started. I did find several interesting things along the way
+
+**Sample API Resources**
+
+[https://slashtheapidog.com/api/balls](https://slashtheapidog.com/api/balls "https://slashtheapidog.com/api/balls")
+
+[https://official-joke-api.appspot.com/random_joke](https://official-joke-api.appspot.com/random_joke "https://official-joke-api.appspot.com/random_joke")
+
+[https://www.anapioficeandfire.com/api/books?pageSize=1](https://www.anapioficeandfire.com/api/books?pageSize=1 "https://www.anapioficeandfire.com/api/books?pageSize=1")

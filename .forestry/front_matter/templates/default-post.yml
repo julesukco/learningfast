@@ -27,6 +27,7 @@ fields:
     label: src
 pages:
 - content/posts/leading-without-authority.md
+- content/posts/learning-in-public.md
 - content/posts/never-split-the-difference.md
 - content/posts/simple-web-ui.md
 - content/posts/the-happiness-advantage.md

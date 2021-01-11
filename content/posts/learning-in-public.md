@@ -16,6 +16,8 @@ src = ""
 
 **Crypto**
 
+* What is it? Is it a good investment?
+
 **Tools**
 
 **Architecture**

@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["Learning"]
 date = 2021-01-10T07:00:00Z
 subtitle = ""
 tags = []

@@ -24,5 +24,6 @@ Good:
 
 Bad:
 
-* They are high volatile, have lost 30% of value in a few days at the start of 2021.
-* Despite claim they cannot be hacked there have been numerous large scale theft of currency.
+* They are high volatile, have lost 30% of value in a few days at the start of 2021
+* Despite claim they cannot be hacked there have been numerous large scale theft of currency
+* No consumer protection in place

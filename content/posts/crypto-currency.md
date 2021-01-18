@@ -1,7 +1,6 @@
 +++
 categories = ["Crypto"]
 date = 2021-01-17T07:00:00Z
-draft = true
 subtitle = ""
 tags = []
 title = "Crypto Currency"
@@ -18,3 +17,11 @@ Mining is intensive for compute power - and hence electricity. 60-80% of cost of
 Bitcoin is referred to as the "digital gold" standard.
 
 eGifter provides a way to turn bitcoins in to gift cards. Robinhood also offers a low cost way to purchase them.
+
+Good:
+
+* Big institutional investors putting money in, e.g. many in bitcoin above $20,000.
+
+Bad:
+
+* They are high volatile, have lost 30% of value in a few days at the start of 2021.

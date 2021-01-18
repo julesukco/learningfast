@@ -26,6 +26,7 @@ fields:
     name: src
     label: src
 pages:
+- content/posts/crypto-currency.md
 - content/posts/leading-without-authority.md
 - content/posts/learning-in-public.md
 - content/posts/never-split-the-difference.md

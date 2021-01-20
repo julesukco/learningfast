@@ -14,7 +14,7 @@ I like to be organized for the benefit of reducing stress and increasing the fee
 
 **Things I Am Trying**
 
-* **20 Minutes Per Day** - Reading and studying architecture books. Mark Richards introduced me to the concept.
+* **20 Minutes Per Day** - Reading and studying architecture books. Mark Richards introduced me to the concept as part of his architecture monday series. 
 * **No Infinite Scrolling** - Take a break for a month from Twitter, except for researching. Spend more time focused on things that I want to do. The idea came from [Tania Rascia](https://www.taniarascia.com/me) on here online blog.
 * **Writing** - LearningFast.io is my online attempt to process what I am learning by putting in down on paper. Doesn't really matter if anyone ever reads this if it helps me understand what I am doing.
 

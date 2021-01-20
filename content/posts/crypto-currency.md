@@ -27,3 +27,5 @@ Bad:
 * They are high volatile, have lost 30% of value in a few days at the start of 2021
 * Despite claim they cannot be hacked there have been numerous large scale theft of currency
 * No consumer protection in place
+
+ just for fun I invested in ETH. This coin runs on top of the Ethereum platform. This seems a very robust platform, founded in open source ideals. The platform can support far more than just coins and offers significant advantages over Bitcoin, such as proof of stake (much less energy costs) and much faster validation times - 13s vs 10 mins for bitcoin. 

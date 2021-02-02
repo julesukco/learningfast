@@ -10,3 +10,5 @@ src = ""
 
 +++
 Trials and tribulations of getting a web page to call APIs - and the dreaded CORS error
+
+Chromium - disable-web-security

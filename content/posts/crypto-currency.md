@@ -10,13 +10,15 @@ src = ""
 +++
 Everyone's talking about crypto coins like bitcoin. What exactly is it? Is it a good investment?
 
-Crypto currencies are like money that can be used to pay for things, but it is generally used as an investment. "Miners" validate a block of payments to validity - for which they receive a small amount of crypto currency.
+Crypto currencies are like money that can be used to pay for things, but it is generally used as an investment. There is no central authority like a bank, instead it use a broadly distributed ledger across the internet to capture transactions. "Miners" validate a block of payments for validity - for which they receive a small amount of crypto currency.
 
-Mining is intensive for compute power - and hence electricity. 60-80% of cost of mining goes to cover electricity. Looks for Proof of Stake, rather than Proof of Work, as a faster and cheaper way to validate blocks.
+Mining uses intensive compute power - and hence electricity. 60-80% of cost of mining goes to cover electricity. Look for Proof of Stake, rather than Proof of Work, as a faster and cheaper way to validate blocks.
 
 Bitcoin is referred to as the "digital gold" standard.
 
-eGifter provides a way to turn bitcoins in to gift cards. Robinhood also offers a low cost way to purchase them.
+eGifter provides a way to turn bitcoins in to gift cards. Robinhood also offers a low cost way to trade against them.
+
+Need a wallet to transact with crypto currency.
 
 Good:
 
@@ -27,5 +29,3 @@ Bad:
 * They are high volatile, have lost 30% of value in a few days at the start of 2021
 * Despite claim they cannot be hacked there have been numerous large scale theft of currency
 * No consumer protection in place
-
- just for fun I invested in ETH. This coin runs on top of the Ethereum platform. This seems a very robust platform, founded in open source ideals. The platform can support far more than just coins and offers significant advantages over Bitcoin, such as proof of stake (much less energy costs) and much faster validation times - 13s vs 10 mins for bitcoin. 

@@ -1,7 +1,6 @@
 +++
 categories = []
 date = 2021-02-23T07:00:00Z
-draft = true
 subtitle = ""
 tags = []
 title = "The Pyramid Principle"

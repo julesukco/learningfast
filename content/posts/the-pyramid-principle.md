@@ -29,3 +29,11 @@ Alan Crawford built on this and added some tips:
 1. Say what you want: be direct
 2. Write the way you talk: short sentences, simple language
 3. Enumerate points as lists
+
+and
+
+* Start with what you are going to say
+* Say it
+* Tell them what you said
+
+For me, this has helped me to realize that I need to slow down a bit and look for the reasons behind why I am making intuitive decisions, structure those, and share those better. This will make me more effective at influencing and speaking with credibility.

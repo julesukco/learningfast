@@ -16,3 +16,5 @@ Create a web page that clearly shows progress (and performs some level of valida
 
 * Basic calling an API and visually show the results
 * Secure connections to APIs, likely using OAuth2
+* Working with JSON documents
+* Asynchronous programming

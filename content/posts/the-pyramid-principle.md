@@ -10,15 +10,19 @@ src = ""
 +++
 So What, Who Cares?
 
-* Always start with answer this question
+* Always start with an answer to this question
 * Start with:
   * Situation - something everyone knows
-  * Challenge - the problem
+  * Comment/Challenge - the problem
   * Solution - the answer/recommendation
+* Talk about it hierarchically
+  * 3 supporting ideas
+    * Each with supporting information
+  * Start from the top down
 
 Barbara Minto wrote the book The Pyramid Principle which has become a staple for the big consulting companies to train their consultants how to communicate more effectively. It can help you too.
 
-Write the document and then come back then delete all adjectives (better, smaller, faster, slower, bigger, etc.) and replace with real numbers. It makes the document more precise and less subjective.
+Write the document and then come back then delete all adjectives (better, smaller, faster, slower, bigger, etc.) and replace them with real numbers. It makes the document more precise and less subjective.
 
 Alan Crawford built on this and added some tips:
 

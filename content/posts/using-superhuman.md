@@ -8,7 +8,9 @@ title = "Using Superhuman"
 src = ""
 
 +++
-Superhuman is a new email client. It is supposedly a massive leap forward in how you work with your email. It's certainly a luxury item, at $30 per month, when most email clients are free. So is it that good? What does it teach us about using email? Can I replicate it for less money?
+# Does Superhuman give the perfect email experience?
+
+Superhuman is a new email client. It is supposedly a massive leap forward in how you work with your email. Will Superhuman revolutionize how I work with email? It's certainly a luxury item, at $30 per month, when most email clients are free. So is it that good? What does it teach us about using email? Can I replicate it for less money?
 
 1. Customer service is amazing. Live, in-person onboarding. Personalized video from support team lead. Super easy to submit questions and feedback to the team. Replicate: No.
 2. Keystrokes enable all functionality on the desktop - makes it seem very quick to move through emails. Replicate: Keyboard Maestro could help - but not to the same experience as it is so ingrained into the product.

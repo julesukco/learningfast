@@ -8,7 +8,7 @@ title = "Never Split The Difference"
 src = ""
 
 +++
-Summary:
+### Summary:
 
 People want to be understood and accepted - listening is the best tool. Try mirroring - repeating the last three words the other person spoke.
 
@@ -26,11 +26,11 @@ Focus on getting the other side to say "that's right".
 
 No deal is better than a bad deal. Beware of a deadline. Make your deadline known early.
 
-"anchor and adjustment" is the tendency to be anchored by extreme numbers. Experienced negotiators lead with an extreme offer.
+"Anchor and adjustment" is the tendency to be anchored by extreme numbers. Experienced negotiators lead with an extreme offer.
 
-"prospect theory" - people are drawn to sure things over probabilities.
+"Prospect theory" - people are drawn to sure things over probabilities.
 
-"loss aversion" - people take greater risk to avoid a loss than make a gain. Potential losses factor more for people than potential gains.
+"Loss aversion" - people take greater risk to avoid a loss than make a gain. Potential losses factor more for people than potential gains.
 
 Offer up a range, with the low end being what you want for it. Don't use round numbers. Exact numbers feel more permanent. Offer an exact amount and a gift - makes the other side think there is no more money coming.
 
@@ -55,8 +55,7 @@ You don't rise to the occasion - you fall to the level of preparation.
 
 Create a negotiation sheet before starting. It has four sections:
 
-1. The goal  
-   Consider best/worst case, but only write the best case down 
+1. The goal Consider best/worst case, but only write the best case down
 2. Summarize the known facts in a couple of sentences
 3. Prepare 3-5 labels/accusation audits
 4. Create a small group of calibrated Questions to find out what is really motivating the other side.
@@ -68,8 +67,8 @@ Other sections to think about:
 
 Unearth deal-killers
 
-* what are we up against here?
-* what happens if you do nothing?
-* what is the biggest challenge you face?
+* What are we up against here?
+* What happens if you do nothing?
+* What is the biggest challenge you face?
 
 Think of a list of non-cash items that would be valuable.
